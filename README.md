@@ -10,7 +10,7 @@ For example, the branch [01-useState](https://github.com/Programmer-Duck/React-H
 
 You can switch branches via the branch dropdown above the directory explorer.
 
-![Click on the branch dropdown and then select the appropriate branch for the course section you're looking for](./selecting-a-branch.jpg)
+![Click on the branch dropdown and then select the appropriate branch for the course section you're looking for](./selecting-a-branch.png)
 
 In most branches, you'll find multiple folders which organize the section-specific content further:
 
