@@ -6,7 +6,7 @@ This repository contains the course source code and other extra materials.
 
 The code snapshots are organized in multiple **branches** where every branch **represents a course section**.
 
-For example, the branch [01-useState]() holds all code snapshots and extra materials for section 1 of the course ("React Hook - useState").
+For example, the branch [01-useState](https://github.com/Programmer-Duck/React-Hooks/tree/01-useState) holds all code snapshots and extra materials for section 1 of the course ("React Hook - useState").
 
 You can switch branches via the branch dropdown above the directory explorer.
 
