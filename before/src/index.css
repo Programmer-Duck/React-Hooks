@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: red;
+}
+
+#root {
+  display: flex;
+}
+
+#root > div {
+  width: 100%;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.centered div {
+  font-size: 3.74rem;
+  padding: 10px 50px;
+}
+
+.centered button {
+  font-size: 2.5rem;
+  padding: 20px;
+  cursor: pointer;
+  background-color: #fff;
+  border-radius: 18px;
+  user-select: none;
+}
